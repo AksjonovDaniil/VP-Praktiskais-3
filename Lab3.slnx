@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="../Lab3/Lab3.WebAPI/Lab3.WebAPI.csproj" Id="a622b150-1e24-4836-a5cf-e39aa7ad6096" />
+  <Project Path="Lab2.Console/Lab2.Console.csproj" />
+  <Project Path="Lab2.DataAccess/Lab2.DataAccess.csproj" />
+</Solution>

@@ -361,3 +361,6 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+!Lab2.DataAccess/AnimalOwnerDb.mdf
+!Lab2.DataAccess/AnimalOwnerDb_log.ldf
